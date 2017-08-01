@@ -1,0 +1,108 @@
+#container {
+    width: 970px;
+    background: white;
+    padding: 10px;
+}
+
+#header {
+    width: 970px;
+    height: 200px;
+    background: #47C3B8;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top: 4px dotted #FF6328;
+}
+
+h1 {
+    color: White;
+    font-family: 'cabin sketch';
+    font-size: 35px;
+    text-align: center;
+    margin-left: 10px;
+    position: relative;
+    bottom: -46px;
+}
+
+p {
+    color: #FF6328;
+    font-family: 'cabin sketch';
+    font-weight: bold;
+    text-align: center;
+    /* margin-top: 11px; */
+    padding-top: 20px;
+    font-size: 25px;
+    position: relative;
+    bottom: -32px;
+}
+
+#maincontent {
+    width: 970px;
+    background: #eeaa78;
+}
+
+#cat0 {
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    width: 50%;
+    height: 110px;
+}
+
+#cat1 {
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 110px;
+}
+
+#cat2 {
+    display: block;
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 110px;
+}
+
+#cat3 {
+    display: block;
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 110px;
+}
+
+#cat4 {
+    display: block;
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 110px;
+    padding-bottom: 20px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background: #FF6328;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    font-family: 'cabin sketch';
+    position: relative;
+    left: 50%
+}
+
+select {
+    width: 150 px;
+}
